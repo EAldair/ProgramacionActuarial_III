@@ -1,0 +1,63 @@
+---
+title: "Untitled"
+author: "Aldair"
+date: "29 de agosto de 2016"
+output: html_document
+---
+
+
+
+###Calificaciones
+
+**Otoño 2014**
+* Matematicas Básicas 6
+
+* Problemas matemáticas Básicas 6
+
+* Programación Actuarial 7
+
+* DHPC 8
+
+* Conceptos De Calculo 6
+
+* Introducción a la Profesión Actuarial 6
+
+
+**Primavera 2015**
+* Teoría del Interes 7
+
+* Calculo Diferencial 5
+
+* Teoría De Ecuaciones 5
+
+* Programacion Actuarial II 5
+
+* Geometría Analitica 7
+
+* Microeconomía 8
+
+
+**Otoño 2015**
+* Teoría del Interes II 9
+
+* Calculo Diferencial 8
+
+* Teoría de Ecuaciones 10
+
+* DHTIC´s 10
+
+* Lengua Extranjera IV 10
+
+**Primavera 2015**
+
+* Algebra lineal 5
+
+* Calculo integral 9
+
+* Programación actuarial II 8
+
+* Macroeconomía 8
+
+* Sistema Financiero 9
+
+* Contabilidad 7
