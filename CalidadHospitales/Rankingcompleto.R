@@ -5,12 +5,12 @@ rankingcompleto <- function(resultado, num = "mejor") {
   else if (resultado == "falla") col <- 17
   else if (resultado == "neumonia") col <- 23
   else if (resultado %in% v == F){
-    stop("resultado inválido")
+    stop("resultado invÃ¡lido")
   }
   data[, col] <- suppressWarnings(as.numeric(levels(data[, col])[data[, col]]))
   data[, 2] <- as.character(data[, 2])
   
-  output <- vector() # Vector a llenar (por filas) mediante el ciclo
+  output <- vector() 
   estados <- levels(data[, 7])
   for(i in 1:length(estados)) {
     databystate <- data[grep(estados[i], data[,7]), ]
